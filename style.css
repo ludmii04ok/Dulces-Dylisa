@@ -1,0 +1,17 @@
+*{
+    background-color: #278615;
+   
+}
+body {
+  display: grid;
+  place-content: center;   /* Centra en ambas direcciones a la vez */
+  min-height: 100vh;
+  margin: 0;
+}
+
+
+#P1{
+ color: rgb(0, 0, 0);
+ font-style: inherit;
+ font-size: 1000%;
+}
